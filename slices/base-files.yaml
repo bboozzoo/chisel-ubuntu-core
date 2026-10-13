@@ -101,6 +101,15 @@ slices:
       /usr/lib/systemd/system/motd-news.service:
       /usr/lib/systemd/system/motd-news.timer:
 
+  profile:
+    essential:
+      base-files_etc:
+    contents:
+      /etc/profile: {copy: /usr/share/base-files/dot.profile}
+      /etc/profile.d/01-locale-fix.sh:
+      /usr/share/profile:
+      /usr/share/profile.md5sums:
+
   copyright:
     contents:
       /usr/share/doc/base-files/copyright:
