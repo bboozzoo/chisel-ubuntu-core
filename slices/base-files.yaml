@@ -105,7 +105,7 @@ slices:
     essential:
       base-files_etc:
     contents:
-      /etc/profile: {copy: /usr/share/base-files/dot.profile}
+      /etc/profile: {copy: /usr/share/base-files/profile}
       /etc/profile.d/01-locale-fix.sh:
       /usr/share/profile:
       /usr/share/profile.md5sums:
