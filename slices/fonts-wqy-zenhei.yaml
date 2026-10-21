@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-wqy-zenhei/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-wqy-zenhei/changelog.Debian.gz:

@@ -29,3 +29,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/binutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/binutils/changelog.Debian.gz:

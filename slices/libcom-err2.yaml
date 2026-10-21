@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcom-err2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcom-err2/changelog.Debian.gz:

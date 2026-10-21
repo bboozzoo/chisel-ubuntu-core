@@ -158,3 +158,7 @@ slices:
       openjdk-21-jre-headless_copyright:
     contents:
       /usr/share/doc/openjdk-21-jdk-headless:
+
+  changelog:
+    contents:
+      /usr/share/doc/openjdk-21-jdk-headless/changelog.Debian.gz:

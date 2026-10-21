@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libdrm2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libdrm2/changelog.Debian.gz:

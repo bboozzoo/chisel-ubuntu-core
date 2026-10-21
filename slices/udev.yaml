@@ -182,3 +182,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/udev/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/udev/changelog.Debian.gz:

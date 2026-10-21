@@ -32,3 +32,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/systemd-timesyncd/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/systemd-timesyncd/changelog.Debian.gz:

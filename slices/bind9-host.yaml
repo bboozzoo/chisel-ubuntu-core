@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/bind9-host/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/bind9-host/changelog.Debian.gz:

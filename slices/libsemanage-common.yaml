@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsemanage-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsemanage-common/changelog.Debian.gz:

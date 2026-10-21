@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-eldap/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-eldap/changelog.Debian.gz:

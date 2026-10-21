@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/mysql-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/mysql-common/changelog.Debian.gz:

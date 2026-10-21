@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-parsetools/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-parsetools/changelog.Debian.gz:

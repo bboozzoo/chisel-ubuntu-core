@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-jsonschema/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-jsonschema/changelog.Debian.gz:

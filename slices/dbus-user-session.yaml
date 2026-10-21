@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dbus-user-session/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dbus-user-session/changelog.Debian.gz:

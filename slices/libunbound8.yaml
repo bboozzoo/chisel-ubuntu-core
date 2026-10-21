@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libunbound8/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libunbound8/changelog.Debian.gz:

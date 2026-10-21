@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsamplerate0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsamplerate0/changelog.Debian.gz:

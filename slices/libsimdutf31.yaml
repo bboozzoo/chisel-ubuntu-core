@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsimdutf31/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsimdutf31/changelog.Debian.gz:

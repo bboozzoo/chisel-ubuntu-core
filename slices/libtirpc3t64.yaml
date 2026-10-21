@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libtirpc3t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libtirpc3t64/changelog.Debian.gz:

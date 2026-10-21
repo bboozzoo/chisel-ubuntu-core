@@ -1070,3 +1070,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/bash-completion/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/bash-completion/changelog.Debian.gz:

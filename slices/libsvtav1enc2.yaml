@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsvtav1enc2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsvtav1enc2/changelog.Debian.gz:

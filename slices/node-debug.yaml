@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-debug/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-debug/changelog.Debian.gz:

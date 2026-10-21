@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libkmod2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libkmod2/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcap-ng0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcap-ng0/changelog.Debian.gz:

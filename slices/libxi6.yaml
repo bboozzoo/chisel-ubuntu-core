@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxi6/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxi6/changelog.Debian.gz:

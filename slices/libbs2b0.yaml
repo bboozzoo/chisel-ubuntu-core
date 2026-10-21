@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libbs2b0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libbs2b0/changelog.Debian.gz:

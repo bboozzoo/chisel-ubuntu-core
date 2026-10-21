@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libdvdread8t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libdvdread8t64/changelog.Debian.gz:

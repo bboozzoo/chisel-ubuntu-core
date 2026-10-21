@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libtbbbind-2-5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libtbbbind-2-5/changelog.Debian.gz:

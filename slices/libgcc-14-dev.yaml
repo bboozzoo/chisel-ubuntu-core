@@ -62,3 +62,7 @@ slices:
       gcc-14-base_copyright:
     contents:
       /usr/share/doc/libgcc-14-dev:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgcc-14-dev/changelog.Debian.gz:

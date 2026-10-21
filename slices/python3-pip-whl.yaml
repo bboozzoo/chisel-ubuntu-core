@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-pip-whl/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-pip-whl/changelog.Debian.gz:

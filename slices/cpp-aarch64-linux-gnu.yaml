@@ -7,3 +7,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cpp-aarch64-linux-gnu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cpp-aarch64-linux-gnu/changelog.Debian.gz:

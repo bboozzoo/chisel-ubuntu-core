@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-pkg-resources/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-pkg-resources/changelog.Debian.gz:

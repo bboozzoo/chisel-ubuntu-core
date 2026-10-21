@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libzmq5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libzmq5/changelog.Debian.gz:

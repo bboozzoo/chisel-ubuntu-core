@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-chardet/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-chardet/changelog.Debian.gz:

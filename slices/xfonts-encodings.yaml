@@ -62,3 +62,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/xfonts-encodings/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/xfonts-encodings/changelog.Debian.gz:

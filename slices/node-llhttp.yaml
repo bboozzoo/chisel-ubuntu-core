@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-llhttp/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-llhttp/changelog.Debian.gz:

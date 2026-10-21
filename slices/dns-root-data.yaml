@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dns-root-data/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dns-root-data/changelog.Debian.gz:

@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3.14-minimal/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3.14-minimal/changelog.Debian.gz:

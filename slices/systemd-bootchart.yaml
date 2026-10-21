@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/systemd-bootchart/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/systemd-bootchart/changelog.Debian.gz:

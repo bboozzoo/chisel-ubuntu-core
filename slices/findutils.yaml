@@ -26,3 +26,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/findutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/findutils/changelog.Debian.gz:

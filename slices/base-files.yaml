@@ -113,3 +113,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/base-files/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/base-files/changelog.gz:

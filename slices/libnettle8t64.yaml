@@ -13,3 +13,8 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnettle8t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnettle8t64/changelog.Debian.gz:
+        

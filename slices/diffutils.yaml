@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/diffutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/diffutils/changelog.Debian.gz:

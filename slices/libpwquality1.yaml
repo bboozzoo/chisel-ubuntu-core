@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpwquality1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpwquality1/changelog.Debian.gz:

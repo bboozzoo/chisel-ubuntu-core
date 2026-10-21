@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-lru-cache/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-lru-cache/changelog.Debian.gz:

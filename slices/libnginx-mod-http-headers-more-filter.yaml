@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnginx-mod-http-headers-more-filter/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnginx-mod-http-headers-more-filter/changelog.Debian.gz:

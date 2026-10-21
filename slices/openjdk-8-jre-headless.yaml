@@ -216,3 +216,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/openjdk-8-jre-headless/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/openjdk-8-jre-headless/changelog.Debian.gz:

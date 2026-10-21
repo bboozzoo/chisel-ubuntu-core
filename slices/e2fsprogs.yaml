@@ -129,3 +129,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/e2fsprogs/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/e2fsprogs/changelog.Debian.gz:

@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/plymouth-label-ft/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/plymouth-label-ft/changelog.Debian.gz:

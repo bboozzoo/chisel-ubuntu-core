@@ -62,3 +62,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3.14/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3.14/changelog.Debian.gz:

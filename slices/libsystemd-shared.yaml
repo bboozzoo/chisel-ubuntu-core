@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsystemd-shared/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsystemd-shared/changelog.Debian.gz:

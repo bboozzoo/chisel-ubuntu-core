@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/metapixel/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/metapixel/changelog.Debian.gz:

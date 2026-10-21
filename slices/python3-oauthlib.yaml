@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-oauthlib/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-oauthlib/changelog.Debian.gz:

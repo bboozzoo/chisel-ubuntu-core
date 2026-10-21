@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libexif12/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libexif12/changelog.Debian.gz:

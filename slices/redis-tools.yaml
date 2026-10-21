@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/redis-tools/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/redis-tools/changelog.Debian.gz:

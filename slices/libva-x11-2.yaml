@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libva-x11-2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libva-x11-2/changelog.Debian.gz:

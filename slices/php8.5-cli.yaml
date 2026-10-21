@@ -90,3 +90,7 @@ slices:
       php8.5-common_copyright:
     contents:
       /usr/share/doc/php8.5-cli:
+
+  changelog:
+    contents:
+      /usr/share/doc/php8.5-cli/changelog.Debian.gz:

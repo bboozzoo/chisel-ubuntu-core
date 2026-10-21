@@ -38,3 +38,7 @@ slices:
     contents:
       /usr/share/doc/apache2-data/NOTICE:
       /usr/share/doc/apache2-data/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/apache2-data/changelog.Debian.gz:

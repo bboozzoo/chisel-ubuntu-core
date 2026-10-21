@@ -174,3 +174,7 @@ slices:
     contents:
       /usr/share/doc/apache2/NOTICE:  # Symlink to ../apache2-bin/NOTICE
       /usr/share/doc/apache2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/apache2/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libargon2-1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libargon2-1/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-serial/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-serial/changelog.Debian.gz:

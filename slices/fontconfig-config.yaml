@@ -81,3 +81,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fontconfig-config/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fontconfig-config/changelog.Debian.gz:

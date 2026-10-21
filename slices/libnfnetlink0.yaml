@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnfnetlink0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnfnetlink0/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgif7/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgif7/changelog.Debian.gz:

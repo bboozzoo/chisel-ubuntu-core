@@ -84,3 +84,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/openssh-client/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/openssh-client/changelog.Debian.gz:

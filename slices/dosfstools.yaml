@@ -41,3 +41,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dosfstools/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dosfstools/changelog.Debian.gz:

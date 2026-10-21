@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/geoipupdate/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/geoipupdate/changelog.Debian.gz:

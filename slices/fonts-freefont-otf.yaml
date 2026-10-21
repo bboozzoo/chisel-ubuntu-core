@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-freefont-otf/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-freefont-otf/changelog.Debian.gz:

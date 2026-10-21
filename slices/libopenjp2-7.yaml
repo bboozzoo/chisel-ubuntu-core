@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libopenjp2-7/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libopenjp2-7/changelog.Debian.gz:

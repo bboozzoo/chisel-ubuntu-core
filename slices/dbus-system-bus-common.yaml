@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dbus-system-bus-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dbus-system-bus-common/changelog.Debian.gz:

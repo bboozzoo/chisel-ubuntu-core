@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/tzdata-icu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/tzdata-icu/changelog.Debian.gz:

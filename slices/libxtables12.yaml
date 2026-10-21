@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxtables12/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxtables12/changelog.Debian.gz:

@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libicu78/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libicu78/changelog.Debian.gz:

@@ -431,3 +431,7 @@ slices:
       libpython3.14-minimal_copyright:
     contents:
       /usr/share/doc/libpython3.14-stdlib:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpython3.14-stdlib/changelog.Debian.gz:

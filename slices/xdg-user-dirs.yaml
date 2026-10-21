@@ -29,3 +29,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/xdg-user-dirs/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/xdg-user-dirs/changelog.Debian.gz:

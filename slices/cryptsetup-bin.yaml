@@ -25,3 +25,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cryptsetup-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cryptsetup-bin/changelog.Debian.gz:

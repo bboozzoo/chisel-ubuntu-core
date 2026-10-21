@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/vim-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/vim-common/changelog.Debian.gz:

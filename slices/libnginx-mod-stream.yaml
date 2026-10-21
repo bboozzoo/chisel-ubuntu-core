@@ -24,3 +24,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnginx-mod-stream/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnginx-mod-stream/changelog.Debian.gz:

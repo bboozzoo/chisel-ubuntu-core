@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxcb-shape0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxcb-shape0/changelog.Debian.gz:

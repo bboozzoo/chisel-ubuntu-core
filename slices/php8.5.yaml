@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/php8.5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/php8.5/changelog.Debian.gz:

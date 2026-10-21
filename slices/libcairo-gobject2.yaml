@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcairo-gobject2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcairo-gobject2/changelog.Debian.gz:

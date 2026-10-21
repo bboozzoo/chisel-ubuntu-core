@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libdvdnav4/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libdvdnav4/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxdamage1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxdamage1/changelog.Debian.gz:

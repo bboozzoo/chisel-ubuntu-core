@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsensors5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsensors5/changelog.Debian.gz:

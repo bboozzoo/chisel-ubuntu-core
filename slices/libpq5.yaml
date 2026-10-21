@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpq5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpq5/changelog.Debian.gz:

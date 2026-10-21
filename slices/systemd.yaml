@@ -862,3 +862,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/systemd/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/systemd/changelog.Debian.gz:

@@ -68,3 +68,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/procps/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/procps/changelog.Debian.gz:

@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpam-pwquality/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpam-pwquality/changelog.Debian.gz:

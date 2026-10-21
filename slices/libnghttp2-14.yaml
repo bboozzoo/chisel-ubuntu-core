@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnghttp2-14/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnghttp2-14/changelog.Debian.gz:

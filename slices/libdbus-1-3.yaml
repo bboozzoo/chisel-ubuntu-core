@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libdbus-1-3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libdbus-1-3/changelog.Debian.gz:

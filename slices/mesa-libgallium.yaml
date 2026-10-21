@@ -35,3 +35,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/mesa-libgallium/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/mesa-libgallium/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libunibreak6/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libunibreak6/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libevent-pthreads-2.1-7t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libevent-pthreads-2.1-7t64/changelog.Debian.gz:

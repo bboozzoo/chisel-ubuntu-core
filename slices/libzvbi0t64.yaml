@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libzvbi0t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libzvbi0t64/changelog.Debian.gz:

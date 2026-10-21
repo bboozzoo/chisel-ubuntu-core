@@ -21,3 +21,7 @@ slices:
       gcc-13-base_copyright:
     contents:
       /usr/share/doc/gcc-13:  # Symlink to gcc-13-base
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc-13/changelog.Debian.gz:

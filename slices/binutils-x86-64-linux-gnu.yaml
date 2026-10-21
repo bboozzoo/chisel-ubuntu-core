@@ -103,3 +103,7 @@ slices:
         arch: [amd64]
       /usr/share/doc/binutils-x86-64-linux-gnu/copyright:
         arch: [arm64, i386, ppc64el, s390x]
+
+  changelog:
+    contents:
+      /usr/share/doc/binutils-x86-64-linux-gnu/changelog.Debian.gz:

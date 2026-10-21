@@ -304,3 +304,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/xkb-data/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/xkb-data/changelog.Debian.gz:

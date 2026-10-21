@@ -53,3 +53,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-ubuntu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-ubuntu/changelog.Debian.gz:

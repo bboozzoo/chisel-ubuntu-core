@@ -26,3 +26,7 @@ slices:
       libruby_copyright:
     contents:
       /usr/share/doc/ruby/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/ruby/changelog.Debian.gz:

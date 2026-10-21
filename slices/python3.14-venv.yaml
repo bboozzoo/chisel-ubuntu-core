@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3.14-venv: {symlink: /usr/share/doc/python3.14}
+
+  changelog:
+    contents:
+      /usr/share/doc/python3.14-venv/changelog.Debian.gz:

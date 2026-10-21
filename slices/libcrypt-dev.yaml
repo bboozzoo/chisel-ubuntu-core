@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcrypt-dev/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcrypt-dev/changelog.Debian.gz:

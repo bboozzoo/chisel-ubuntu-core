@@ -34,3 +34,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/zstd/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/zstd/changelog.Debian.gz:

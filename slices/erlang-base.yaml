@@ -43,3 +43,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-base/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-base/changelog.Debian.gz:

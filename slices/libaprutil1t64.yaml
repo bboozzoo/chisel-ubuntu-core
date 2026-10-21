@@ -23,3 +23,7 @@ slices:
     contents:
       /usr/share/doc/libaprutil1t64/NOTICE:
       /usr/share/doc/libaprutil1t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libaprutil1t64/changelog.Debian.gz:

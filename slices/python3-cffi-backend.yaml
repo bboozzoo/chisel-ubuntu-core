@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-cffi-backend/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-cffi-backend/changelog.Debian.gz:

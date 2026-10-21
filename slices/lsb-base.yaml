@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/lsb-base/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/lsb-base/changelog.Debian.gz:

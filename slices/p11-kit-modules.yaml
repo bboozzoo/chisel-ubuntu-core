@@ -20,3 +20,7 @@ slices:
       libp11-kit0_copyright:
     contents:
       /usr/share/doc/p11-kit-modules:
+
+  changelog:
+    contents:
+      /usr/share/doc/p11-kit-modules/changelog.Debian.gz:

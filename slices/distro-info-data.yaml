@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/distro-info-data/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/distro-info-data/changelog.Debian.gz:

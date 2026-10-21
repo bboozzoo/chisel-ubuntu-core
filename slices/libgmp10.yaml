@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgmp10/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgmp10/changelog.Debian.gz:

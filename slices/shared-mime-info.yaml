@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/shared-mime-info/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/shared-mime-info/changelog.Debian.gz:

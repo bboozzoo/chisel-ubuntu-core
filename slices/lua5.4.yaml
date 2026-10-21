@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/lua5.4/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/lua5.4/changelog.Debian.gz:

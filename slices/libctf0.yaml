@@ -17,3 +17,7 @@ slices:
       libbinutils_copyright:
     contents:
       /usr/share/doc/libctf0:
+
+  changelog:
+    contents:
+      /usr/share/doc/libctf0/changelog.Debian.gz:

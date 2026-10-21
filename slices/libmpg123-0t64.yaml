@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libmpg123-0t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libmpg123-0t64/changelog.Debian.gz:

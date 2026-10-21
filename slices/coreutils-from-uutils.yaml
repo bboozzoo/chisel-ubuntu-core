@@ -561,3 +561,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/coreutils-from-uutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/coreutils-from-uutils/changelog.gz:

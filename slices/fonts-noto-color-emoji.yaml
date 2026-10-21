@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-noto-color-emoji/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-noto-color-emoji/changelog.Debian.gz:

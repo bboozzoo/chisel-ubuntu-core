@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libmysqlclient24/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libmysqlclient24/changelog.Debian.gz:

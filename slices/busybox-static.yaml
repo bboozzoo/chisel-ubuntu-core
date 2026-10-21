@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/busybox-static/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/busybox-static/changelog.Debian.gz:

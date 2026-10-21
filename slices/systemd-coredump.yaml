@@ -38,3 +38,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/systemd-coredump/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/systemd-coredump/changelog.Debian.gz:

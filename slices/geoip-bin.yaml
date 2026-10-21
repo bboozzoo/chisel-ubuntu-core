@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/geoip-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/geoip-bin/changelog.Debian.gz:

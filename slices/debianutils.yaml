@@ -164,3 +164,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/debianutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/debianutils/changelog.gz:

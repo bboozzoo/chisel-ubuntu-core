@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-setuptools-whl/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-setuptools-whl/changelog.Debian.gz:

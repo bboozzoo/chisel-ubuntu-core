@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libharfbuzz0b/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libharfbuzz0b/changelog.Debian.gz:

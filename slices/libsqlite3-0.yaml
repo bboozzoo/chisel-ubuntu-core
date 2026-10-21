@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsqlite3-0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsqlite3-0/changelog.Debian.gz:

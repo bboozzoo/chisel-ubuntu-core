@@ -26,3 +26,7 @@ slices:
       libgdk-pixbuf2.0-common_copyright:
     contents:
       /usr/share/doc/libgdk-pixbuf-2.0-0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgdk-pixbuf-2.0-0/changelog.Debian.gz:

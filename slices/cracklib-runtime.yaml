@@ -45,3 +45,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cracklib-runtime/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cracklib-runtime/changelog.Debian.gz:

@@ -40,3 +40,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/netbase/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/netbase/changelog.gz:

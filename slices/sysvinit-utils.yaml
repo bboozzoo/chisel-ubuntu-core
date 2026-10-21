@@ -32,3 +32,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/sysvinit-utils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/sysvinit-utils/changelog.Debian.gz:

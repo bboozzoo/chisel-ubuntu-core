@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-certifi/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-certifi/changelog.Debian.gz:

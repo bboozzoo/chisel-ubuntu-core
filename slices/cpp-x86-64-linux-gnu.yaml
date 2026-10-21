@@ -7,3 +7,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cpp-x86-64-linux-gnu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cpp-x86-64-linux-gnu/changelog.Debian.gz:

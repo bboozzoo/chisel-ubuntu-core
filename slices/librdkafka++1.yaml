@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/librdkafka++1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/librdkafka++1/changelog.Debian.gz:

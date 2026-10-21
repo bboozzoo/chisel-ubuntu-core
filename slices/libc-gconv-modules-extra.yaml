@@ -256,3 +256,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libc-gconv-modules-extra/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libc-gconv-modules-extra/changelog.Debian.gz:

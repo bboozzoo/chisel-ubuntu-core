@@ -26,3 +26,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dmsetup/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dmsetup/changelog.Debian.gz:

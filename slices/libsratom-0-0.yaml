@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsratom-0-0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsratom-0-0/changelog.Debian.gz:

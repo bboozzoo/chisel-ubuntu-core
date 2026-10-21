@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/golang-src/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/golang-src/changelog.Debian.gz:

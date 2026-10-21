@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gnutls-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gnutls-bin/changelog.Debian.gz:

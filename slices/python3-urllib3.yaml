@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-urllib3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-urllib3/changelog.Debian.gz:

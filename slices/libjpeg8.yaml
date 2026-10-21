@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libjpeg8/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libjpeg8/changelog.Debian.gz:

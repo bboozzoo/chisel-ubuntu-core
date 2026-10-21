@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxdmcp6/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxdmcp6/changelog.Debian.gz:

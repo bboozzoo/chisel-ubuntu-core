@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libhwy1t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libhwy1t64/changelog.Debian.gz:

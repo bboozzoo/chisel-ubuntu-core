@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-minimatch/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-minimatch/changelog.Debian.gz:

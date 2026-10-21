@@ -67,3 +67,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/nginx-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/nginx-common/changelog.Debian.gz:

@@ -62,3 +62,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libglib2.0-0t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libglib2.0-0t64/changelog.Debian.gz:

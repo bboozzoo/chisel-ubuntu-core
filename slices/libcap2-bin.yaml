@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcap2-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcap2-bin/changelog.Debian.gz:

@@ -18,3 +18,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/librsvg2-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/librsvg2-common/changelog.Debian.gz:

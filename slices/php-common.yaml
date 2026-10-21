@@ -59,3 +59,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/php-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/php-common/changelog.Debian.gz:

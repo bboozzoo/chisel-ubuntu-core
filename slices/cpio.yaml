@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cpio/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cpio/changelog.Debian.gz:

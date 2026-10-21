@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/sbsigntool/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/sbsigntool/changelog.Debian.gz:

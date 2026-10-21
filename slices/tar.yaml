@@ -45,3 +45,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/tar/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/tar/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxcb-render0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxcb-render0/changelog.Debian.gz:

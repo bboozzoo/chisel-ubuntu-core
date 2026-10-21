@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libvpx12/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libvpx12/changelog.Debian.gz:

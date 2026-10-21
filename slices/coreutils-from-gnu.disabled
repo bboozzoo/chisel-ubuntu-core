@@ -590,3 +590,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/coreutils-from-gnu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/coreutils-from-gnu/changelog.Debian.gz:

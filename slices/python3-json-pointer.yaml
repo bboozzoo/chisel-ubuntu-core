@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-json-pointer/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-json-pointer/changelog.Debian.gz:

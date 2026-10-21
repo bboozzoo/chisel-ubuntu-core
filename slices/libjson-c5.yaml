@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libjson-c5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libjson-c5/changelog.Debian.gz:

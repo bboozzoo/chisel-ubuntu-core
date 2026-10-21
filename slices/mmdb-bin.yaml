@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/mmdb-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/mmdb-bin/changelog.Debian.gz:

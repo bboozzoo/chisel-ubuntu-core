@@ -528,3 +528,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/tzdata/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/tzdata/changelog.Debian.gz:

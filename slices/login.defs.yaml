@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/login.defs/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/login.defs/changelog.Debian.gz:

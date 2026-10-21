@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/librtmp1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/librtmp1/changelog.Debian.gz:

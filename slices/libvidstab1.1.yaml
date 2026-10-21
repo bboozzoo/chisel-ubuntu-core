@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libvidstab1.1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libvidstab1.1/changelog.Debian.gz:
