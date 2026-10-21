@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libraw1394-11/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libraw1394-11/changelog.Debian.gz:

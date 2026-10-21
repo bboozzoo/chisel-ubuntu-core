@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gosu/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gosu/changelog.Debian.gz:

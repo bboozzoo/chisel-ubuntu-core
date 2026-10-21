@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libopts25/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libopts25/changelog.Debian.gz:

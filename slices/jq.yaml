@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/jq/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/jq/changelog.Debian.gz:

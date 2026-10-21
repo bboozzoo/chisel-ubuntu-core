@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnetfilter-conntrack3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnetfilter-conntrack3/changelog.Debian.gz:

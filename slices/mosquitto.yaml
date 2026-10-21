@@ -56,3 +56,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/mosquitto/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/mosquitto/changelog.Debian.gz:

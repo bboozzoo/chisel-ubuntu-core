@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libbluray3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libbluray3/changelog.Debian.gz:

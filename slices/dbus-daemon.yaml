@@ -29,3 +29,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dbus-daemon/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dbus-daemon/changelog.Debian.gz:

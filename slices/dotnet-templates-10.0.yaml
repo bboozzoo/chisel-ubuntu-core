@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dotnet-templates-10.0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dotnet-templates-10.0/changelog.Debian.gz:

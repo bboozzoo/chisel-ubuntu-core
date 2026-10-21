@@ -54,3 +54,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/wpasupplicant/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/wpasupplicant/changelog.Debian.gz:

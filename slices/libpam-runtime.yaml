@@ -169,3 +169,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpam-runtime/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpam-runtime/changelog.Debian.gz:

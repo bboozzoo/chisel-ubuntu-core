@@ -622,3 +622,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/rust-coreutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/rust-coreutils/changelog.Debian.gz:

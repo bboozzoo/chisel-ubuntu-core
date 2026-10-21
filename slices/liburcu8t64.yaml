@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/liburcu8t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/liburcu8t64/changelog.Debian.gz:

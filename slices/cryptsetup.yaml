@@ -53,3 +53,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cryptsetup/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cryptsetup/changelog.Debian.gz:

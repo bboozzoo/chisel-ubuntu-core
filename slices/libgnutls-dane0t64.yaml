@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgnutls-dane0t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgnutls-dane0t64/changelog.Debian.gz:

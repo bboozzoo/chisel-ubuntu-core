@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-tlwg-loma-otf/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-tlwg-loma-otf/changelog.Debian.gz:

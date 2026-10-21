@@ -37,3 +37,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-snmp/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-snmp/changelog.Debian.gz:

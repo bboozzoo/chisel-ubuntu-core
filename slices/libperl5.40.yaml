@@ -339,3 +339,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libperl5.40/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libperl5.40/changelog.Debian.gz:

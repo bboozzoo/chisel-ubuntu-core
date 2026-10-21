@@ -81,3 +81,7 @@ slices:
       openjdk-25-jre-headless_copyright:
     contents:
       /usr/share/doc/openjdk-25-jdk-headless:
+
+  changelog:
+    contents:
+      /usr/share/doc/openjdk-25-jdk-headless/changelog.Debian.gz:

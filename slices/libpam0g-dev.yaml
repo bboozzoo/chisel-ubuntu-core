@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpam0g-dev/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpam0g-dev/changelog.Debian.gz:

@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libtbb12/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libtbb12/changelog.Debian.gz:

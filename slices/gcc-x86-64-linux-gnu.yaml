@@ -15,3 +15,7 @@ slices:
       cpp-x86-64-linux-gnu_copyright:
     contents:
       /usr/share/doc/gcc-x86-64-linux-gnu:  # Symlink to cpp-x86-64-linux-gnu
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc-x86-64-linux-gnu/changelog.Debian.gz:

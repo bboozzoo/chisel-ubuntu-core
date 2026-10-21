@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libonig5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libonig5/changelog.Debian.gz:

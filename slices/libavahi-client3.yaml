@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libavahi-client3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libavahi-client3/changelog.Debian.gz:

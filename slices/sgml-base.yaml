@@ -41,3 +41,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/sgml-base/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/sgml-base/changelog.Debian.gz:

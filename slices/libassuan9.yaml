@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libassuan9/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libassuan9/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnsl2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnsl2/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxcb-randr0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxcb-randr0/changelog.Debian.gz:

@@ -30,3 +30,7 @@ slices:
       /usr/lib/dotnet/LICENSE.txt:
       /usr/lib/dotnet/ThirdPartyNotices.txt:
       /usr/share/doc/dotnet-host-10.0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dotnet-host-10.0/changelog.Debian.gz:

@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-netifaces/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-netifaces/changelog.Debian.gz:

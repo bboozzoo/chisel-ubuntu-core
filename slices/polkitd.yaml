@@ -70,3 +70,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/polkitd/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/polkitd/changelog.Debian.gz:

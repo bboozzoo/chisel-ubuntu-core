@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libmagic-mgc/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libmagic-mgc/changelog.Debian.gz:

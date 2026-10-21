@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-ssl/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-ssl/changelog.Debian.gz:

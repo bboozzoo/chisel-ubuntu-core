@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/x11-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/x11-common/changelog.Debian.gz:

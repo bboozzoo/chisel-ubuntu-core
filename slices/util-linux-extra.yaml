@@ -135,3 +135,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/util-linux-extra/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/util-linux-extra/changelog.Debian.gz:

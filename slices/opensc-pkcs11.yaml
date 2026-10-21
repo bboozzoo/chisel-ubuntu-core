@@ -28,3 +28,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/opensc-pkcs11/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/opensc-pkcs11/changelog.Debian.gz:

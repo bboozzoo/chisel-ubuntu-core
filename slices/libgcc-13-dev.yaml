@@ -60,3 +60,7 @@ slices:
       gcc-13-base_copyright:
     contents:
       /usr/share/doc/libgcc-13-dev:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgcc-13-dev/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/liblzma5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/liblzma5/changelog.Debian.gz:

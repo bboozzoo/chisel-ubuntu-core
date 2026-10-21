@@ -98,3 +98,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/apt/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/apt/changelog.Debian.gz:

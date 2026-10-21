@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-markupsafe/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-markupsafe/changelog.Debian.gz:

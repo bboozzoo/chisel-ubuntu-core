@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gpgv/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gpgv/changelog.Debian.gz:

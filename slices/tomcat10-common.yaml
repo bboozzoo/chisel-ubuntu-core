@@ -106,3 +106,7 @@ slices:
 #    contents:
 #      /usr/share/tomcat10/bin/catalina-tasks.xml:
 #      /usr/share/tomcat10/lib/catalina-ant.jar:
+
+  changelog:
+    contents:
+      /usr/share/doc/tomcat10-common/changelog.Debian.gz:

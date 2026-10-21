@@ -25,3 +25,7 @@ slices:
       gcc-15-base_copyright:
     contents:
       /usr/share/doc/cpp-15-aarch64-linux-gnu:
+
+  changelog:
+    contents:
+      /usr/share/doc/cpp-15-aarch64-linux-gnu/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnftnl11/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnftnl11/changelog.Debian.gz:

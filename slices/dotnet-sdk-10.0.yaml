@@ -58,3 +58,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dotnet-sdk-10.0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dotnet-sdk-10.0/changelog.Debian.gz:

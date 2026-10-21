@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-crypto/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-crypto/changelog.Debian.gz:

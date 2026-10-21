@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-tftp/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-tftp/changelog.Debian.gz:

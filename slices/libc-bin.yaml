@@ -62,3 +62,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libc-bin/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libc-bin/changelog.Debian.gz:

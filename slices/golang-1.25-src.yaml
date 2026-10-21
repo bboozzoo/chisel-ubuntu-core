@@ -229,3 +229,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/golang-1.25-src/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/golang-1.25-src/changelog.Debian.gz:

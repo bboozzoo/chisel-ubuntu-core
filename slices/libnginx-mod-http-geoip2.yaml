@@ -26,3 +26,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnginx-mod-http-geoip2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnginx-mod-http-geoip2/changelog.Debian.gz:

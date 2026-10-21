@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsnappy1v5/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsnappy1v5/changelog.Debian.gz:

@@ -103,3 +103,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/init-system-helpers/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/init-system-helpers/changelog.gz:

@@ -38,3 +38,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-dejavu-core/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-dejavu-core/changelog.Debian.gz:

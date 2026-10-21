@@ -17,3 +17,7 @@ slices:
       openssh-client_copyright:
     contents:
       /usr/share/doc/openssh-sftp-server:
+
+  changelog:
+    contents:
+      /usr/share/doc/openssh-sftp-server/changelog.Debian.gz:

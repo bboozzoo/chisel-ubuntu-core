@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-standard-asynchat/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-standard-asynchat/changelog.Debian.gz:

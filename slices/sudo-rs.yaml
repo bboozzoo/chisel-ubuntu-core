@@ -26,3 +26,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/sudo-rs/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/sudo-rs/changelog.Debian.gz:

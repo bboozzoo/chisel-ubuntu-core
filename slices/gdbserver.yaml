@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gdbserver/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gdbserver/changelog.Debian.gz:

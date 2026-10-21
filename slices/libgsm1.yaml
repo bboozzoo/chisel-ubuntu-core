@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgsm1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgsm1/changelog.Debian.gz:

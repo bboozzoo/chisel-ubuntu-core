@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/ucf/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/ucf/changelog.Debian.gz:

@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libmemcached11t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libmemcached11t64/changelog.Debian.gz:

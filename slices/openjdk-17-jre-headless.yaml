@@ -196,3 +196,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/openjdk-17-jre-headless/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/openjdk-17-jre-headless/changelog.Debian.gz:

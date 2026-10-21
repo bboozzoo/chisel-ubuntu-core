@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxcb-sync1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxcb-sync1/changelog.Debian.gz:

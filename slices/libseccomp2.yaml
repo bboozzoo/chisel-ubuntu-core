@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libseccomp2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libseccomp2/changelog.Debian.gz:

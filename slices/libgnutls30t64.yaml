@@ -25,3 +25,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgnutls30t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgnutls30t64/changelog.Debian.gz:

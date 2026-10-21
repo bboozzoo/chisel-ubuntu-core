@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libsensors-config/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libsensors-config/changelog.Debian.gz:

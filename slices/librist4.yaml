@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/librist4/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/librist4/changelog.Debian.gz:

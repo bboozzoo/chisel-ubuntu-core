@@ -422,3 +422,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/apparmor/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/apparmor/changelog.Debian.gz:

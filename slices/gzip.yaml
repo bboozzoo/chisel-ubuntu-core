@@ -40,3 +40,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gzip/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gzip/changelog.Debian.gz:

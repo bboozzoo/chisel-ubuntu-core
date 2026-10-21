@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cloud-guest-utils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cloud-guest-utils/changelog.Debian.gz:

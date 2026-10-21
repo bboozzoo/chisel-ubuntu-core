@@ -86,3 +86,7 @@ slices:
 #    contents:
 #      /usr/share/java/tomcat10-catalina-ant-10*.jar:
 #      /usr/share/java/tomcat10-catalina-ant.jar:
+
+  changelog:
+    contents:
+      /usr/share/doc/libtomcat10-java/changelog.Debian.gz:

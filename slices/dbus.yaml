@@ -34,3 +34,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/dbus/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/dbus/changelog.Debian.gz:

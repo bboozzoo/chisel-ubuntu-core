@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libeclipse-jdt-core-java/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libeclipse-jdt-core-java/changelog.Debian.gz:

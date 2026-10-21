@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/bc/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/bc/changelog.Debian.gz:

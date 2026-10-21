@@ -85,3 +85,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpam-modules/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpam-modules/changelog.Debian.gz:

@@ -96,3 +96,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/golang-1.25-go/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/golang-1.25-go/changelog.Debian.gz:

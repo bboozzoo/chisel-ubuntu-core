@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libarchive13t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libarchive13t64/changelog.Debian.gz:

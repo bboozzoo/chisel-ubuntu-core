@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libwebpmux3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libwebpmux3/changelog.Debian.gz:

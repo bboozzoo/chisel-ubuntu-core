@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-xtend/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-xtend/changelog.Debian.gz:

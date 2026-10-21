@@ -209,3 +209,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/openjdk-11-jre-headless/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/openjdk-11-jre-headless/changelog.Debian.gz:

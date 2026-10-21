@@ -25,3 +25,7 @@ slices:
       cpp-15-x86-64-linux-gnu_copyright: {arch: [amd64]}
     contents:
       /usr/share/doc/gcc:  # Symlink to gcc-${ARCH_TRIPLET}
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc/changelog.Debian.gz:

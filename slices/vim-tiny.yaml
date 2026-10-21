@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/vim-tiny/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/vim-tiny/changelog.Debian.gz:

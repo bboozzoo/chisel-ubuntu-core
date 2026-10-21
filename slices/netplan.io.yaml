@@ -47,3 +47,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/netplan.io/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/netplan.io/changelog.Debian.gz:

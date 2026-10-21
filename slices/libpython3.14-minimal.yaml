@@ -125,3 +125,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libpython3.14-minimal/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libpython3.14-minimal/changelog.Debian.gz:

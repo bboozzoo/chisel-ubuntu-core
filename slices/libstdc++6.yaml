@@ -16,3 +16,7 @@ slices:
       gcc-14-base_copyright:
     contents:
       /usr/share/doc/libstdc++6:
+
+  changelog:
+    contents:
+      /usr/share/doc/libstdc++6/changelog.Debian.gz:

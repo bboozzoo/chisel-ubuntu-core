@@ -9,3 +9,7 @@ slices:
       libruby3.3_copyright:
     contents:
       /usr/share/doc/libruby/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libruby/changelog.Debian.gz:

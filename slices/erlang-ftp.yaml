@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-ftp/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-ftp/changelog.Debian.gz:

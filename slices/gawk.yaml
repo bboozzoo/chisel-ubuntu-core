@@ -41,3 +41,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gawk/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gawk/changelog.Debian.gz:

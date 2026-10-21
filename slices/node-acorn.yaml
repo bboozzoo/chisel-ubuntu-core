@@ -42,3 +42,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-acorn/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-acorn/changelog.Debian.gz:

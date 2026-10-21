@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libevdev2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libevdev2/changelog.Debian.gz:

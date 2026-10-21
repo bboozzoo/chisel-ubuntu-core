@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-unifont/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-unifont/changelog.Debian.gz:

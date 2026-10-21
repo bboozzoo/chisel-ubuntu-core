@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/fonts-liberation/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/fonts-liberation/changelog.Debian.gz:

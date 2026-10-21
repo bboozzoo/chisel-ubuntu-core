@@ -20,3 +20,7 @@ slices:
     contents:
       # Symlink to binutils-common
       /usr/share/doc/libbinutils:
+
+  changelog:
+    contents:
+      /usr/share/doc/libbinutils/changelog.Debian.gz:

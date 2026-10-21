@@ -215,3 +215,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/iptables/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/iptables/changelog.Debian.gz:

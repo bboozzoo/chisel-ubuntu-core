@@ -27,3 +27,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/less/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/less/changelog.Debian.gz:

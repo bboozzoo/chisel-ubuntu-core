@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libk5crypto3/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libk5crypto3/changelog.Debian.gz:

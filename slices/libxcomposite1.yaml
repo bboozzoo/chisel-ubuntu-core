@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libxcomposite1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libxcomposite1/changelog.Debian.gz:

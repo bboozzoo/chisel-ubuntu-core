@@ -18,3 +18,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgit2-1.9/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgit2-1.9/changelog.Debian.gz:

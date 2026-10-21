@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/nvidia-firmware-595-595.58.03/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/nvidia-firmware-595-595.58.03/changelog.Debian.gz:

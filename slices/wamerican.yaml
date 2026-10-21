@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/wamerican/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/wamerican/changelog.Debian.gz:

@@ -7,3 +7,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/binutils-common/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/binutils-common/changelog.Debian.gz:

@@ -292,3 +292,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/coreutils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/coreutils/changelog.gz:

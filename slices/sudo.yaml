@@ -59,3 +59,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/sudo/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/sudo/changelog.Debian.gz:

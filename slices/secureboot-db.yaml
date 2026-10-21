@@ -18,3 +18,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/secureboot-db/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/secureboot-db/changelog.gz:

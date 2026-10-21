@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/rustc-1.93/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/rustc-1.93/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/node-cjs-module-lexer/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/node-cjs-module-lexer/changelog.Debian.gz:

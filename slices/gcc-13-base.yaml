@@ -7,3 +7,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gcc-13-base/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc-13-base/changelog.Debian.gz:

@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/uidmap/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/uidmap/changelog.Debian.gz:

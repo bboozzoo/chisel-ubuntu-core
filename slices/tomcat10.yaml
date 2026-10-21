@@ -50,3 +50,7 @@ slices:
   copyright:
     content:
       /usr/share/doc/tomcat10/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/tomcat10/changelog.Debian.gz:

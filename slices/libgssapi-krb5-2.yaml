@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libgssapi-krb5-2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libgssapi-krb5-2/changelog.Debian.gz:

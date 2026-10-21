@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libldap2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libldap2/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcodec2-1.2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcodec2-1.2/changelog.Debian.gz:

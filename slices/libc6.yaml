@@ -63,3 +63,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libc6/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libc6/changelog.Debian.gz:

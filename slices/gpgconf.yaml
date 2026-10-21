@@ -30,3 +30,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gpgconf/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gpgconf/changelog.Debian.gz:

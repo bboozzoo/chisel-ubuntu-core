@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/memcached/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/memcached/changelog.Debian.gz:

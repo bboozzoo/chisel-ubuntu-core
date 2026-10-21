@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libfido2-1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libfido2-1/changelog.Debian.gz:

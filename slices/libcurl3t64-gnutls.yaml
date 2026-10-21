@@ -25,3 +25,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcurl3t64-gnutls/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcurl3t64-gnutls/changelog.Debian.gz:

@@ -16,3 +16,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libssh-4/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libssh-4/changelog.Debian.gz:

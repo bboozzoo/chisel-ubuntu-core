@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/hello/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/hello/changelog.Debian.gz:

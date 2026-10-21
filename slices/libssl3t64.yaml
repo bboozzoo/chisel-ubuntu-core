@@ -20,3 +20,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libssl3t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libssl3t64/changelog.Debian.gz:

@@ -14,3 +14,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/openssl-provider-legacy/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/openssl-provider-legacy/changelog.Debian.gz:

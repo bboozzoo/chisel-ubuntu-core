@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/ubuntu-keyring/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/ubuntu-keyring/changelog.Debian.gz:

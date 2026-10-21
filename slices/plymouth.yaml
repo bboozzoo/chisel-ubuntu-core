@@ -90,3 +90,7 @@ slices:
       /usr/libexec/plymouth/plymouth-update-initrd:
       /usr/libexec/plymouth/plymouthd-fd-escrow:
       /usr/sbin/plymouthd:
+
+  changelog:
+    contents:
+      /usr/share/doc/plymouth/changelog.Debian.gz:

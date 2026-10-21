@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/cloud-init/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/cloud-init/changelog.Debian.gz:

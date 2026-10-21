@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libacl1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libacl1/changelog.Debian.gz:

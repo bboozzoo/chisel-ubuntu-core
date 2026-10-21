@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/bsdextrautils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/bsdextrautils/changelog.Debian.gz:

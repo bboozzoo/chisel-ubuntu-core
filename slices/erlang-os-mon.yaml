@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/erlang-os-mon/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/erlang-os-mon/changelog.Debian.gz:

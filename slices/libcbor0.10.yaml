@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libcbor0.10/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libcbor0.10/changelog.Debian.gz:

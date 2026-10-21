@@ -11,3 +11,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/gcc-15-base/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc-15-base/changelog.Debian.gz:

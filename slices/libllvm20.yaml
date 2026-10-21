@@ -21,3 +21,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libllvm20/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libllvm20/changelog.Debian.gz:

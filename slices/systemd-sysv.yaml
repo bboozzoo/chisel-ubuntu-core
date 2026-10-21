@@ -19,3 +19,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/systemd-sysv/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/systemd-sysv/changelog.Debian.gz:

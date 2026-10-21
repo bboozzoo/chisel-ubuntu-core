@@ -49,3 +49,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libnss-mdns/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libnss-mdns/changelog.Debian.gz:

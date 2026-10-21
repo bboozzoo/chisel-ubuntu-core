@@ -33,3 +33,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/xz-utils/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/xz-utils/changelog.Debian.gz:

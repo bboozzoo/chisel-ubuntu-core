@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-pyrsistent/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-pyrsistent/changelog.Debian.gz:

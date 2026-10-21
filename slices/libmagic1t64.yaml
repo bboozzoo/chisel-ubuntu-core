@@ -27,3 +27,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libmagic1t64/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libmagic1t64/changelog.Debian.gz:

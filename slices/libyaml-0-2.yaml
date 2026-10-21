@@ -12,3 +12,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libyaml-0-2/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libyaml-0-2/changelog.Debian.gz:

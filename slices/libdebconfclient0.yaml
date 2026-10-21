@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libdebconfclient0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libdebconfclient0/changelog.Debian.gz:

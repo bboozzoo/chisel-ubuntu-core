@@ -84,3 +84,7 @@ slices:
     contents:
       /usr/share/doc/aspnetcore-runtime-10.0/NOTICE.txt.gz:
       /usr/share/doc/aspnetcore-runtime-10.0/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/aspnetcore-runtime-10.0/changelog.Debian.gz:

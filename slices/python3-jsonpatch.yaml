@@ -22,3 +22,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/python3-jsonpatch/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/python3-jsonpatch/changelog.Debian.gz:

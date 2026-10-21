@@ -21,3 +21,7 @@ slices:
       gcc-14-base_copyright:
     contents:
       /usr/share/doc/gcc-14:  # Symlink to gcc-14-base
+
+  changelog:
+    contents:
+      /usr/share/doc/gcc-14/changelog.Debian.gz:

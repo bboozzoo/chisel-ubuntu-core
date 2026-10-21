@@ -15,3 +15,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libengine-pkcs11-openssl/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libengine-pkcs11-openssl/changelog.Debian.gz:

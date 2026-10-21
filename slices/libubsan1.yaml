@@ -17,3 +17,7 @@ slices:
       gcc-14-base_copyright:
     contents:
       /usr/share/doc/libubsan1:
+
+  changelog:
+    contents:
+      /usr/share/doc/libubsan1/changelog.Debian.gz:

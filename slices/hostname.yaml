@@ -17,3 +17,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/hostname/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/hostname/changelog.gz:

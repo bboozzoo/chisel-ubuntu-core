@@ -23,3 +23,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/finalrd/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/finalrd/changelog.gz:

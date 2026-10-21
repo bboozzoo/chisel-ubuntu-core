@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/publicsuffix/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/publicsuffix/changelog.Debian.gz:

@@ -13,3 +13,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/libuuid1/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/libuuid1/changelog.Debian.gz:

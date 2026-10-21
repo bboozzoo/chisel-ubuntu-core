@@ -59,3 +59,7 @@ slices:
   copyright:
     contents:
       /usr/share/doc/nvidia-kernel-common-595/copyright:
+
+  changelog:
+    contents:
+      /usr/share/doc/nvidia-kernel-common-595/changelog.Debian.gz:
