@@ -117,3 +117,7 @@ slices:
   changelog:
     contents:
       /usr/share/doc/base-files/changelog.gz:
+
+  locale:
+    contents:
+      /usr/bin/locale-check:
